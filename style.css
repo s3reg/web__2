@@ -1,0 +1,16 @@
+img {
+    width: 400px;
+    height: 400px;
+}
+
+.cards {
+    display: flex;
+    flex-direction: row;
+    margin: 1em;
+}
+
+.card {
+    margin: 1em;
+    background-color: lightblue;
+    padding: 1em;
+}
